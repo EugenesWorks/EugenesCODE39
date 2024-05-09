@@ -4,7 +4,7 @@ This font is a barcode font that complies with the CODE39 standard.
 このフォントはCODE39の規格に合わせたバーコードフォントです。
 
 When using, please surround the string with asterisks.
-使用する際は文字列*アスタリスクで囲んでください。
+使用する際は文字列を*アスタリスクで囲んでください。
 
 The following characters can be used.
 使用可能文字は以下になります。
