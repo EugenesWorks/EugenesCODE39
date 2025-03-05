@@ -9,7 +9,7 @@ When using, please surround the string with asterisks.
 The following characters can be used.
 使用可能文字は以下になります。
 ~~~
-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ-+/%.$*SPACE
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ-+/%.$SPACE
 ~~~
 
 MIT License (You can check the license symbol with @.)
